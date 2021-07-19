@@ -31,9 +31,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.seive">
-    <configuration name="ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsAlgoInJava.ThreeSumClosest" />
+  <component name="RunManager" selected="Application.BishopMove">
+    <configuration name="BishopMove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsAlgoInJava.BishopMove" />
       <module name="DsAlgoInJAVA" />
       <extension name="coverage">
         <pattern>
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BishopMove" />
         <item itemvalue="Application.seive" />
         <item itemvalue="Application.verifyPrime" />
         <item itemvalue="Application.allFactors" />
         <item itemvalue="Application.longestPrefix" />
-        <item itemvalue="Application.ThreeSumClosest" />
       </list>
     </recent_temporary>
   </component>
