@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.BishopMove">
+  <component name="RunManager" selected="Application.distributeInCircle">
     <configuration name="BishopMove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsAlgoInJava.BishopMove" />
       <module name="DsAlgoInJAVA" />
@@ -58,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="longestPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsAlgoInJava.longestPrefix" />
+    <configuration name="distributeInCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsAlgoInJava.distributeInCircle" />
       <module name="DsAlgoInJAVA" />
       <extension name="coverage">
         <pattern>
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.distributeInCircle" />
         <item itemvalue="Application.BishopMove" />
         <item itemvalue="Application.seive" />
         <item itemvalue="Application.verifyPrime" />
         <item itemvalue="Application.allFactors" />
-        <item itemvalue="Application.longestPrefix" />
       </list>
     </recent_temporary>
   </component>
